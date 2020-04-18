@@ -16,11 +16,6 @@ This template attempts to **look clean**, highlight **details**, and allow usefu
 ### Page 2
 ![alt tag](https://github.com/sourabh48/SimpleLaTexResume/blob/master/sample/page2.png)
 
-## Dependencies
-
-1. Compiles only with **XeTeX** and required **BibTex** for compiling publications and the .bib filetype.
-2. Uses fonts that are usually only available to **Mac** users such as Helvetica Neue Light.
-
 ## Changelog
 ### v1.2
  1.Fixed alignment. 
