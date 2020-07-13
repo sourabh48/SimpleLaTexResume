@@ -34,3 +34,10 @@ This template attempts to **look clean**, highlight **details**, and allow usefu
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+    
+    
+    
+## Support
+If you think my projects are helpful you can contribute me anything at paypal.me/sourabh48
+
+
